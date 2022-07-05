@@ -8,4 +8,5 @@
 2022-07-01 get up 8am ✔️ + work out ✔️   
  2022-07-02 free sleeping day + work out ✔️  
  2022-07-03 get up 8am ✔️ + work out ❌  
- 2022-07-04 get up 8am ✔️ + work out ✔️
+ 2022-07-04 get up 8am ✔️ + work out ✔️  
+ 2022-07-04 get up 8am ✔️ + work out ✔️  
