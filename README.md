@@ -21,4 +21,5 @@
  2022-07-14 get up 8am ✔️ + work out ❌  
  2022-07-15 REST  
  2022-07-16 REST  
- 2022-07-17 REST
+ 2022-07-17 REST  
+ 2022-07-18 get up 8am ✔️ + work out ❌
