@@ -6,7 +6,7 @@
  -> changed 7am to 8am  
  2022-06-30 get up 8am ✔️ + work out ✔️  
 2022-07-01 get up 8am ✔️ + work out ✔️   
- 2022-07-02 free sleeping day + work out ✔️  
+ 2022-07-02 REST + work out ✔️  
  2022-07-03 get up 8am ✔️ + work out ❌  
  2022-07-04 get up 8am ✔️ + work out ✔️  
  2022-07-05 get up 8am ✔️ + work out ❌  
@@ -23,4 +23,4 @@
  2022-07-16 REST  
  2022-07-17 REST  
  2022-07-18 get up 8am ✔️ + work out ❌  
- 2022-07-19 get up 8am ✔️ + work out ❌
+ 2022-07-19 get up 8am ✔️ + work out ✔️
