@@ -25,4 +25,4 @@
  2022-07-18 get up 8am ✔️ + work out ❌  
  2022-07-19 get up 8am ✔️ + work out ✔️  
  2022-07-20 get up 8am ✔️ + work out ✔️  
- 2022-07-21 get up 8am ✔️ + work out ❌
+ 2022-07-21 get up 8am ✔️ + work out ✔️
