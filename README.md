@@ -1,4 +1,5 @@
 # Everyday_Morning_Check  
+
 2022-06-27 get up 7am ✔️ + breakfast ✔️ + work out ✔️  
 2022-06-28 get up 7am ✔️ + breakfast ✔️ + work out ❌   
 2022-06-29 get up 7am ❌ + breakfast ❌ + work out ✔️  
@@ -13,8 +14,8 @@
  2022-07-06 get up 8am ✔️ + work out ✔️  
  2022-07-07 get up 8am ✔️ + work out ❌  
  2022-07-08 get up 8am ✔️ + work out ❌  
- 2022-07-09 rest   
- 2022-07-10 rest  
+ 2022-07-09 REST   
+ 2022-07-10 REST  
  2022-07-11 get up 8am ✔️ + work out ❌  
  2022-07-12 get up 8am ✔️ + work out ❌  
  2022-07-13 get up 8am ✔️ + work out ❌  
@@ -26,4 +27,5 @@
  2022-07-19 get up 8am ✔️ + work out ✔️  
  2022-07-20 get up 8am ✔️ + work out ✔️  
  2022-07-21 get up 8am ✔️ + work out ✔️  
- 2022-07-22 get up 8am ✔️ + work out ❌
+ 2022-07-22 get up 8am ✔️ + work out ❌  
+ 2022-07-23 REST
